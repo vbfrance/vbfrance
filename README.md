@@ -7,10 +7,11 @@
 <h2>Help Desk Ticket Examples</h2>
 Below are some examples that demonstrate my help desk support skills through tickets solved.
 
-1. [Startup Issue](./Ticket%20%231002%20-%20The%20computer%20will%20not%20turn%20on.docx) 
-2. [Social Media Access Issue](./Ticket%20%231003%20-%20Facebook%20is%20gone.docx))
-3. [Software Installation Troubleshooting](./software-install.docx)
-4. [Email Configuration Error](./email-config.docx)
+1. [Computer Startup Troubleshooting](./Ticket%20%231002%20-%20The%20computer%20will%20not%20turn%20on.docx) 
+2. [Social Media Access Troubleshooting](./Ticket%20%231003%20-%20Facebook%20is%20gone.docx)
+3. [Windows Login Troubleshooting](./Ticket%20%231004%20-%20Windows%20login%20issue.docx))
+4. [Application Access Troubleshooting](./Ticket%20%231005%20-%20Skype%20is%20not%20working.docx))
+5. [Sound Device Troubleshooting](/Ticket%20%231007%20-%20No%20sound.docx)
 
 <h2>Environments Used </h2>
 
