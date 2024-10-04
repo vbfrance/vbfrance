@@ -4,10 +4,6 @@
 - 👀 I’m interested in health advocacy, writing, and technology.
 - 🌱 I’m currently enhancing my IT support skills and learning the fundamentals of data analysis, including troubleshooting, SQL, and data visualization.
 - 💞️ I’m looking to support mission-driven organizations in empowering others through technology.
-- 😄 Pronouns: She/her- 👋 Hi, I’m Valicia!
-- 👀 I’m interested in health advocacy, writing, and technology.
-- 🌱 I’m currently enhancing my IT support skills and learning the fundamentals of data analysis, including troubleshooting, SQL, and data visualization.
-- 💞️ I’m looking to support mission-driven organizations in empowering others through technology.
 - 😄 Pronouns: She/her
 <br />
 
