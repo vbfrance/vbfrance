@@ -1,6 +1,4 @@
--<h1>Hi, I'm Valicia! </h1>
-
- ### [YouTube Demonstration](https://youtu.be/7eJexJVCqJo)
+<h1>Hi, I'm Valicia! <br/><a href="https://www.linkedin.com/in/vbfrance/">Health & Tech Professional</a></h1>
 
 <h2>About Me</h2>
 - 👋 Hi, I’m Valicia!
