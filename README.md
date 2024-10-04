@@ -1,9 +1,7 @@
 <h1>Hi, I'm Valicia (she/her)! <br/><a href="https://www.linkedin.com/in/vbfrance/">Health & Tech Professional</a></h1>
 
 <h2>👋 About Me</h2>
-- 👀 I’m interested in health advocacy, writing, and technology.
-- 🌱 I’m currently enhancing my IT support skills and learning the fundamentals of data analysis, including troubleshooting, SQL, and data visualization.
-- 💞️ I’m looking to support mission-driven organizations in empowering others through technology.
+👀 I’m interested in health advocacy, writing, and technology. 🌱 I’m currently enhancing my IT support skills and learning the fundamentals of data analysis, including troubleshooting, SQL, and data visualization. 💞️ I’m looking to support mission-driven organizations in empowering others through technology.
 <br />
 
 <h2>Help Desk Ticket Examples</h2>
