@@ -15,8 +15,8 @@ Below are some examples that demonstrate my help desk support skills through tic
 
 <h2>Environments Used </h2>
 
-- <b>Windows 10</b> (21H2)
-- <b>Windows 11</b> (10.0.22631)
+- <b>Windows 10</b> (version 21H2)
+- <b>Windows 11</b> (version 10.0.22631)
 - <b>Ubuntu</b> (Linux)
 
 <h2>Connect with me:</h2>
