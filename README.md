@@ -18,6 +18,7 @@ Below are some examples that demonstrate my help desk support skills through tic
 - <b>Windows 10</b> (version 21H2)
 - <b>Windows 11</b> (version 10.0.22631)
 - <b>Ubuntu</b> (Linux)
+- <b>Android</b>
 
 <h2>Connect with me:</h2>
 
